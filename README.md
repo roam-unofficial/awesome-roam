@@ -6,7 +6,7 @@ A curated list of https://roamresearch.com/ resources
   - [Articles](#articles)
   - [Courses](#courses)
   - [Demos](#demos)
-  - [Hacks](#hacks)
+  - [Hacks, Tricks & Extensions](#hacks-tricks--extensions)
 
 ## Articles
   - [Roam: Why I Love It and How I Use It - Nat Eliason](https://www.nateliason.com/blog/roam)
