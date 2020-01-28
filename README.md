@@ -21,9 +21,11 @@ A curated list of https://roamresearch.com/ resources
   - [Roam for Research - YouTube](https://www.youtube.com/watch?v=L6GIW4PprQE)
   - [Spaced Repetition in Roam Research - YouTube](https://www.youtube.com/watch?v=pmv5Yrnmlgg)
   - [Reproducing PhD reading workflow with Roam Research - YouTube](https://www.youtube.com/watch?v=A9_caEW6Xks)
+    - [Importing old PhD study notes into Roam - YouTube](https://www.youtube.com/watch?v=2zXZvOmAtFI)
   - [Diagrams in Roam Research - YouTube](https://www.youtube.com/watch?v=RD_Gi8EQGVQ&t=111s)
   - [Interview with Conor White-Sullivan, Founder of Roam - YouTube](https://www.youtube.com/watch?v=Hw2kJF_kxjE)
   - [A quick overview of Roam Research - YouTube](https://www.youtube.com/watch?v=WkEMSGpD5zA)
+  - [Twitter and Hypothes.is capture to Roam - YouTube](https://www.youtube.com/watch?v=DGo0pLi4r4U)
 
 ## Hacks, Tricks & Extensions
   - [houshuang/note-link-janitor: Maintains backlink structure among interlinked Markdown notes](https://github.com/houshuang/note-link-janitor)
