@@ -27,6 +27,7 @@ A curated list of https://roamresearch.com/ resources
 
 ## Hacks, Tricks & Extensions
   - [houshuang/note-link-janitor: Maintains backlink structure among interlinked Markdown notes](https://github.com/houshuang/note-link-janitor)
+    - [Video explanation: Roam backlinks - YouTube](https://www.youtube.com/watch?v=DJtCoV4lF-A)
   - [Stvad/FuzzyDate: Alfred Workflow to parse a fuzzy date and print the formal date](https://github.com/Stvad/FuzzyDate)
   - Links and fuzzy dates with Roam and Keyboard Maestro
     - [Video explanation](https://www.youtube.com/watch?v=Ht8l5iAmNpc)
