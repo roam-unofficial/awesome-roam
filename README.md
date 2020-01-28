@@ -20,3 +20,9 @@ A curated list of https://roamresearch.com/ resources
   - [The Cannonical Roam Demo - complete version - December 20, 2019 - YouTube](https://www.youtube.com/watch?v=YcNW-eidDJk)
 
 ## Hacks, Tricks & Extensions
+  - [houshuang/note-link-janitor: Maintains backlink structure among interlinked Markdown notes](https://github.com/houshuang/note-link-janitor)
+  - [Stvad/FuzzyDate: Alfred Workflow to parse a fuzzy date and print the formal date](https://github.com/Stvad/FuzzyDate)
+  - Links and fuzzy dates with Roam and Keyboard Maestro
+    - [Video explanation](https://www.youtube.com/watch?v=Ht8l5iAmNpc)
+    - [JS code repo: houshuang/chrono](https://github.com/houshuang/chrono)
+  - [Stvad/RoamAsana: Convert Asana project to RoamResearch page](https://github.com/Stvad/RoamAsana)
