@@ -4,6 +4,7 @@ A curated list of https://roamresearch.com/ resources
 ## Table of Contents
 - [Awesome Roam](#awesome-roam)
   - [Articles](#articles)
+  - [Documentation & Help](#documentation--help)
   - [Courses](#courses)
   - [Demos](#demos)
   - [Hacks, Tricks & Extensions](#hacks-tricks--extensions)
@@ -12,6 +13,11 @@ A curated list of https://roamresearch.com/ resources
   - [Roam: Why I Love It and How I Use It - Nat Eliason](https://www.nateliason.com/blog/roam)
   - [Building a Second Brain in Roam...And Why You Might Want To : RoamResearch](https://www.reddit.com/r/RoamResearch/comments/eho7de/building_a_second_brain_in_roamand_why_you_might/)
   - [How to use Roam Research: a tool for metacognition - Ness Labs](https://nesslabs.com/roam-research)
+
+## Documentation & Help
+  - Official documentation: [Welcome to Roam](https://roamresearch.com/#/v8/help/page/1wnq-ZAAN)
+  - [Metaroam (feature requests, bug tracking, etc.)](https://roamresearch.com/#/app/metaroam)
+  - [Roam on Slack](https://join.slack.com/t/roamresearch/shared_invite/enQtODg3NjIzODEwNDgwLTdhMjczMGYwN2YyNmMzMDcyZjViZDk0MTA2M2UxOGM5NTMxNDVhNDE1YWVkNTFjMGM4OTE3MTQ3MjEzNzE1MTA)
 
 ## Courses
   - [Effortless Output with Roam | Nat Eliason's School](https://learn.nateliason.com/)
@@ -28,6 +34,7 @@ A curated list of https://roamresearch.com/ resources
   - [Twitter and Hypothes.is capture to Roam - YouTube](https://www.youtube.com/watch?v=DGo0pLi4r4U)
 
 ## Hacks, Tricks & Extensions
+  - If you want to create more than one Roam database: https://roamresearch.com/#/secretinvite
   - [houshuang/note-link-janitor: Maintains backlink structure among interlinked Markdown notes](https://github.com/houshuang/note-link-janitor)
     - [Video explanation: Roam backlinks - YouTube](https://www.youtube.com/watch?v=DJtCoV4lF-A)
   - [Stvad/FuzzyDate: Alfred Workflow to parse a fuzzy date and print the formal date](https://github.com/Stvad/FuzzyDate)
