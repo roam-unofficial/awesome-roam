@@ -16,7 +16,7 @@ A curated list of https://roamresearch.com/ resources
 
 ## Documentation & Help
   - Official documentation: [Welcome to Roam](https://roamresearch.com/#/v8/help/page/1wnq-ZAAN)
-  - [Metaroam (feature requests, bug tracking, etc.)](https://roamresearch.com/#/app/metaroam)
+  - [Metaroam (feature requests, bug tracking, etc.)](https://roamresearch.com/#/app/metaroam/page/996g9PwMn)
   - [Roam on Slack](https://join.slack.com/t/roamresearch/shared_invite/enQtODg3NjIzODEwNDgwLTdhMjczMGYwN2YyNmMzMDcyZjViZDk0MTA2M2UxOGM5NTMxNDVhNDE1YWVkNTFjMGM4OTE3MTQ3MjEzNzE1MTA)
 
 ## Courses
