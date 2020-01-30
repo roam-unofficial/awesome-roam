@@ -21,6 +21,7 @@ A curated list of https://roamresearch.com/ resources
 
 ## Courses
   - [Effortless Output with Roam | Nat Eliason's School](https://learn.nateliason.com/)
+  - [Cite to Write - Accelerate your writing by lightning-fast access to everything you've ever read | Cortex Futura](https://cortexfutura.teachable.com/p/cite-to-write/)
 
 ## Demos
   - [The Cannonical Roam Demo - complete version - December 20, 2019 - YouTube](https://www.youtube.com/watch?v=YcNW-eidDJk)
