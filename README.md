@@ -10,6 +10,7 @@ A curated list of https://roamresearch.com/ resources
   - [Hacks, Tricks & Extensions](#hacks-tricks--extensions)
 
 ## Articles
+  - [A beginner's guide to Roam Research: gettings started in 5 easy steps](https://nesslabs.com/roam-research-beginner-guide)
   - [Roam: Why I Love It and How I Use It - Nat Eliason](https://www.nateliason.com/blog/roam)
   - [Building a Second Brain in Roam...And Why You Might Want To : RoamResearch](https://www.reddit.com/r/RoamResearch/comments/eho7de/building_a_second_brain_in_roamand_why_you_might/)
   - [How to use Roam Research: a tool for metacognition - Ness Labs](https://nesslabs.com/roam-research)
