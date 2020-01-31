@@ -13,6 +13,7 @@ A curated list of https://roamresearch.com/ resources
   - [Roam: Why I Love It and How I Use It - Nat Eliason](https://www.nateliason.com/blog/roam)
   - [Building a Second Brain in Roam...And Why You Might Want To : RoamResearch](https://www.reddit.com/r/RoamResearch/comments/eho7de/building_a_second_brain_in_roamand_why_you_might/)
   - [How to use Roam Research: a tool for metacognition - Ness Labs](https://nesslabs.com/roam-research)
+  - [Note taking and Roam](http://reganmian.net/blog/2020/01/31/note-taking-with-roam/)
 
 ## Documentation & Help
   - Official documentation: [Welcome to Roam](https://roamresearch.com/#/v8/help/page/1wnq-ZAAN)
@@ -27,6 +28,7 @@ A curated list of https://roamresearch.com/ resources
   - [The Cannonical Roam Demo - complete version - December 20, 2019 - YouTube](https://www.youtube.com/watch?v=YcNW-eidDJk)
   - [Roam for Research - YouTube](https://www.youtube.com/watch?v=L6GIW4PprQE)
   - [Spaced Repetition in Roam Research - YouTube](https://www.youtube.com/watch?v=pmv5Yrnmlgg)
+  - [1.5 hrs of reading and annotating Tiago Forte's guide to digital productivity in Roam Research - YouTube](https://www.youtube.com/watch?v=tMP9zgGhpM8)
   - [Reproducing PhD reading workflow with Roam Research - YouTube](https://www.youtube.com/watch?v=A9_caEW6Xks)
     - [Importing old PhD study notes into Roam - YouTube](https://www.youtube.com/watch?v=2zXZvOmAtFI)
   - [Diagrams in Roam Research - YouTube](https://www.youtube.com/watch?v=RD_Gi8EQGVQ&t=111s)
@@ -37,6 +39,7 @@ A curated list of https://roamresearch.com/ resources
 
 ## Hacks, Tricks & Extensions
   - If you want to create more than one Roam database: https://roamresearch.com/#/secretinvite
+  - Dark mode: [Chrome](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) / [Firefox](https://addons.mozilla.org/firefox/addon/darkreader/)
   - [houshuang/note-link-janitor: Maintains backlink structure among interlinked Markdown notes](https://github.com/houshuang/note-link-janitor)
     - [Video explanation: Roam backlinks - YouTube](https://www.youtube.com/watch?v=DJtCoV4lF-A)
   - [Stvad/FuzzyDate: Alfred Workflow to parse a fuzzy date and print the formal date](https://github.com/Stvad/FuzzyDate)
