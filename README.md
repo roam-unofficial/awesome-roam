@@ -15,6 +15,7 @@ A curated list of https://roamresearch.com/ resources
   - [Building a Second Brain in Roam...And Why You Might Want To : RoamResearch](https://www.reddit.com/r/RoamResearch/comments/eho7de/building_a_second_brain_in_roamand_why_you_might/)
   - [How to use Roam Research: a tool for metacognition - Ness Labs](https://nesslabs.com/roam-research)
   - [Note taking and Roam](http://reganmian.net/blog/2020/01/31/note-taking-with-roam/)
+  - [Roam as a slip-box](https://davidklaing.com/blog/2020/02/01/roam-as-a-slip-box.html)
 
 ## Documentation & Help
   - Official documentation: [Welcome to Roam](https://roamresearch.com/#/v8/help/page/1wnq-ZAAN)
