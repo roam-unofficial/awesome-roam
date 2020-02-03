@@ -16,6 +16,7 @@ A curated list of https://roamresearch.com/ resources
   - [How to use Roam Research: a tool for metacognition - Ness Labs](https://nesslabs.com/roam-research)
   - [Note taking and Roam](http://reganmian.net/blog/2020/01/31/note-taking-with-roam/)
   - [Roam as a slip-box](https://davidklaing.com/blog/2020/02/01/roam-as-a-slip-box.html)
+  - [Roam features that have changed the way I take notes](https://www.mozzafiller.com/posts/roam-features)
 
 ## Documentation & Help
   - Official documentation: [Welcome to Roam](https://roamresearch.com/#/v8/help/page/1wnq-ZAAN)
