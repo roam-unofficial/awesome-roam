@@ -39,6 +39,7 @@ A curated list of https://roamresearch.com/ resources
   - [A quick overview of Roam Research - YouTube](https://www.youtube.com/watch?v=WkEMSGpD5zA)
   - [Twitter and Hypothes.is capture to Roam - YouTube](https://www.youtube.com/watch?v=DGo0pLi4r4U)
   - [Using Roam as Your Daily Journal - YouTube](https://www.youtube.com/watch?v=WTSHhj92pvM)
+  - [How to Make a Master Task List](https://www.youtube.com/watch?v=mIEgS0JkJBo)
 
 ## Hacks, Tricks & Extensions
   - If you want to create more than one Roam database: https://roamresearch.com/#/secretinvite
