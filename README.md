@@ -28,6 +28,7 @@ A curated list of https://roamresearch.com/ resources
   - [Cite to Write - Accelerate your writing by lightning-fast access to everything you've ever read | Cortex Futura](https://cortexfutura.teachable.com/p/cite-to-write/)
 
 ## Demos
+  - [How to Use Roam to Outline a New Article in Under 20 Minutes - YouTube](https://www.youtube.com/watch?v=RvWic15iXjk)
   - [The Cannonical Roam Demo - complete version - December 20, 2019 - YouTube](https://www.youtube.com/watch?v=YcNW-eidDJk)
   - [Roam for Research - YouTube](https://www.youtube.com/watch?v=L6GIW4PprQE)
   - [Spaced Repetition in Roam Research - YouTube](https://www.youtube.com/watch?v=pmv5Yrnmlgg)
