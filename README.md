@@ -30,6 +30,7 @@ A curated list of https://roamresearch.com/ resources
 ## Demos
   - [How to Use Roam to Outline a New Article in Under 20 Minutes - YouTube](https://www.youtube.com/watch?v=RvWic15iXjk)
   - [The Cannonical Roam Demo - complete version - December 20, 2019 - YouTube](https://www.youtube.com/watch?v=YcNW-eidDJk)
+  - [How to create an Asana-style 'My Tasks' view in Roam Research - YouTube](https://www.youtube.com/watch?v=D8lGWF1N0PU)
   - [Roam for Research - YouTube](https://www.youtube.com/watch?v=L6GIW4PprQE)
   - [Spaced Repetition in Roam Research - YouTube](https://www.youtube.com/watch?v=pmv5Yrnmlgg)
   - [1.5 hrs of reading and annotating Tiago Forte's guide to digital productivity in Roam Research - YouTube](https://www.youtube.com/watch?v=tMP9zgGhpM8)
