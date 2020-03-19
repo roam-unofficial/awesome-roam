@@ -48,6 +48,7 @@ A curated list of https://roamresearch.com/ resources
   - [Anki add-on to import cloze notes from Roam](https://github.com/gmcmanus/anki-roam-import)
   - If you want to create more than one Roam database: https://roamresearch.com/#/secretinvite
   - Dark mode: [Chrome](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) / [Firefox](https://addons.mozilla.org/firefox/addon/darkreader/)
+  - [Custom Roam Themes](https://github.com/theianjones/roam-research-themes)
   - [Twitter thread: Create Habits Tracker in Roam](https://twitter.com/Bazzaruto/status/1224331932210749440)
   - [houshuang/note-link-janitor: Maintains backlink structure among interlinked Markdown notes](https://github.com/houshuang/note-link-janitor)
     - [Video explanation: Roam backlinks - YouTube](https://www.youtube.com/watch?v=DJtCoV4lF-A)
