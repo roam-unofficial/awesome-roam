@@ -45,6 +45,7 @@ A curated list of https://roamresearch.com/ resources
   - [How to Make a Master Task List](https://www.youtube.com/watch?v=mIEgS0JkJBo)
 
 ## Hacks, Tricks & Extensions
+  - 🛠 [Roam Toolkit](https://github.com/roam-unofficial/roam-toolkit) Browser extension designed to improve your experience of using Roam Research. Supports FuzzyDate, SpacedRepetition, Task Estimates & more
   - [Anki add-on to import cloze notes from Roam](https://github.com/gmcmanus/anki-roam-import)
   - If you want to create more than one Roam database: https://roamresearch.com/#/secretinvite
   - Dark mode: [Chrome](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) / [Firefox](https://addons.mozilla.org/firefox/addon/darkreader/)
