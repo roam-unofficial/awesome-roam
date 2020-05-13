@@ -43,6 +43,7 @@ A curated list of https://roamresearch.com/ resources
   - [Twitter and Hypothes.is capture to Roam - YouTube](https://www.youtube.com/watch?v=DGo0pLi4r4U)
   - [Using Roam as Your Daily Journal - YouTube](https://www.youtube.com/watch?v=WTSHhj92pvM)
   - [How to Make a Master Task List](https://www.youtube.com/watch?v=mIEgS0JkJBo)
+  - [Task Management, Roam Research](https://www.youtube.com/playlist?list=PLGL797U3UcfMZAltOZEhnLt8t9fhULSz7)
 
 ## Hacks, Tricks & Extensions
   - 🛠 [Roam Toolkit](https://github.com/roam-unofficial/roam-toolkit) Browser extension designed to improve your experience of using Roam Research. Supports FuzzyDate, SpacedRepetition, Task Estimates & more
