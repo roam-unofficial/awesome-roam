@@ -60,3 +60,5 @@ A curated list of https://roamresearch.com/ resources
     - [JS code repo: houshuang/chrono](https://github.com/houshuang/chrono)
   - [Stvad/RoamAsana: Convert Asana project to RoamResearch page](https://github.com/Stvad/RoamAsana)
   - [dalmo3/hypothesis-to-bullets-chrome-extension: Browser extension for fetching and formatting Hypothes.is annotations into markdown bullet points, ready for copying into Roam, Notion or similar apps.](https://github.com/dalmo3/hypothesis-to-bullets-chrome-extension)
+  - [melat0nin/zotero-roam-export: Export Zotero items and collections to Roam](https://github.com/melat0nin/zotero-roam-export)
+
